@@ -16,7 +16,7 @@ export function Welcome() {
       </h1>
 
       <Link
-        to="https://www.namecheap.com/market/buynow/?query=broadcast.now"
+        to="mailto:khalidadan@gmail.com"
         target="_blank"
         rel="noopener noreferrer"
         className="absolute bottom-4 right-4 text-sm font-mono text-gray-600 hover:text-black transition-colors underline hover:no-underline"
